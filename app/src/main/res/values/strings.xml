@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Hash Study Application</string>
+    
+    <string name="address_invalid">Address is invalid</string>
+</resources>
